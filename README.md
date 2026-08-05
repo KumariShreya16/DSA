@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KumariShreya16/DSA/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KumariShreya16/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
+| [3310-remove-methods-from-project](https://github.com/KumariShreya16/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KumariShreya16/DSA/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/KumariShreya16/DSA/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/KumariShreya16/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
