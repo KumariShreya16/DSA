@@ -1,13 +1,18 @@
+
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int count=0,n=nums.length;
-        for(int i=0;i<n;i++){
-            int sum=0;
-            for(int j =i;j<n;j++){
-                sum+=nums[j];
-                if(sum==k) count++;
+        Map<Integer,Integer> map=new TreeMap<>();
+        int sum=0,ans=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+            if(sum==k){
+                ans++;
+            }
+            if(map.containsKey(sum-k)){
+                ans+=map.get(sum-k);
+            }
+            map.put(sum,map.getOrDefault(sum,0)+1);
         }
-    }
-    return count;
+        return ans;
     }
 }
