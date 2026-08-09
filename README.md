@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
@@ -137,9 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -159,4 +162,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
