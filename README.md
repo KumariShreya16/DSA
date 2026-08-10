@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumariShreya16/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KumariShreya16/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -162,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -191,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KumariShreya16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
