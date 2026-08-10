@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KumariShreya16/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumariShreya16/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
