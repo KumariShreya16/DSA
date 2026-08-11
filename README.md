@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumariShreya16/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2739-total-distance-traveled](https://github.com/KumariShreya16/DSA/tree/master/2739-total-distance-traveled) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KumariShreya16/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/KumariShreya16/DSA/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
