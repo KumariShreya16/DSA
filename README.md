@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/KumariShreya16/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/KumariShreya16/DSA/tree/master/0257-binary-tree-paths) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/KumariShreya16/DSA/tree/master/2739-total-distance-traveled) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
