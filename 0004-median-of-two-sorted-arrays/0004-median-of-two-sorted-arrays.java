@@ -1,51 +1,46 @@
 class Solution {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // Always binary search on the smaller array
+   
         if (nums1.length > nums2.length) {
             return findMedianSortedArrays(nums2, nums1);
         }
 
-        int m = nums1.length;
-        int n = nums2.length;
+        int n1 = nums1.length;
+        int n2 = nums2.length;
 
-        int left = 0;
-        int right = m;
+        int low=0, high=n1;
+        int left=(n1+n2+1)/2;
+        int n=n1+n2;
 
-        while (left <= right) {
-            int partition1 = (left + right) / 2;
-            int partition2 = (m + n + 1) / 2 - partition1;
+        while (low <= high) {
+            int mid1 = (low + high) / 2;
+            int mid2 =left-mid1;
 
-            int left1 = (partition1 == 0)  ? Integer.MIN_VALUE   : nums1[partition1 - 1];
-            int right1 = (partition1 == m)  ? Integer.MAX_VALUE  : nums1[partition1];
-            int left2 = (partition2 == 0)  ? Integer.MIN_VALUE  : nums2[partition2 - 1];
-            int right2 = (partition2 == n)  ? Integer.MAX_VALUE  : nums2[partition2];
+            int l1=Integer.MIN_VALUE;
+            int l2=Integer.MIN_VALUE;
 
-            if (left1 <= right2 && left2 <= right1) {
+            int r1=Integer.MAX_VALUE;
+            int r2=Integer.MAX_VALUE;
 
-                // Odd total length
-                if ((m + n) % 2 == 1) {
-                    return Math.max(left1, left2);
+            if(mid1<n1) r1=nums1[mid1];
+            if(mid2<n2) r2=nums2[mid2];
+            if(mid1-1>=0) l1=nums1[mid1-1];
+            if(mid2-1>=0) l2=nums2[mid2-1];
+
+            if(l1<=r2 && l2<=r1){
+                if(n%2==1){
+                    return Math.max(l1,l2);
                 }
-
-                // Even total length
-                int maxLeft = Math.max(left1, left2);
-                int minRight = Math.min(right1, right2);
-
-                return ((double) maxLeft + minRight) / 2.0;
+                return( Math.max(l1,l2)+ Math.min(r1,r2))/2.0;
             }
-
-            // partition1 is too far right
-            else if (left1 > right2) {
-                right = partition1 - 1;
+            else if(l1>r2){
+                high=mid1-1;
             }
-
-            // partition1 is too far left
-            else {
-                left = partition1 + 1;
+            else{
+                low=mid1+1;
             }
         }
-
         return 0.0;
     }
-}
+}        
