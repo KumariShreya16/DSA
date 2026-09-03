@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KumariShreya16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KumariShreya16/DSA/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KumariShreya16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -252,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KumariShreya16/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/KumariShreya16/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
