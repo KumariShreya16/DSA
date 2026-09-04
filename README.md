@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/KumariShreya16/DSA/tree/master/0257-binary-tree-paths) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1768-merge-strings-alternately](https://github.com/KumariShreya16/DSA/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KumariShreya16/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KumariShreya16/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/KumariShreya16/DSA/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
