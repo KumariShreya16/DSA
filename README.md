@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/KumariShreya16/DSA/tree/master/0605-can-place-flowers) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KumariShreya16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KumariShreya16/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/KumariShreya16/DSA/tree/master/0605-can-place-flowers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
