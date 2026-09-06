@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/KumariShreya16/DSA/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/KumariShreya16/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/KumariShreya16/DSA/tree/master/1075-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/KumariShreya16/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/KumariShreya16/DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KumariShreya16/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KumariShreya16/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
