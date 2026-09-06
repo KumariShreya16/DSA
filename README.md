@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/KumariShreya16/DSA/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/KumariShreya16/DSA/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/KumariShreya16/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/KumariShreya16/DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/KumariShreya16/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/KumariShreya16/DSA/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/KumariShreya16/DSA/tree/master/1164-product-price-at-a-given-date) |
