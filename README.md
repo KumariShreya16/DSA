@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/KumariShreya16/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/KumariShreya16/DSA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/KumariShreya16/DSA/tree/master/0257-binary-tree-paths) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KumariShreya16/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/KumariShreya16/DSA/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KumariShreya16/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KumariShreya16/DSA/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KumariShreya16/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KumariShreya16/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -280,8 +283,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumariShreya16/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumariShreya16/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
