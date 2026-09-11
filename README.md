@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KumariShreya16/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/KumariShreya16/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KumariShreya16/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KumariShreya16/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/KumariShreya16/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -317,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/KumariShreya16/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KumariShreya16/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/KumariShreya16/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/KumariShreya16/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
