@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumariShreya16/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/KumariShreya16/DSA/tree/master/0137-single-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
@@ -314,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KumariShreya16/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/KumariShreya16/DSA/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
