@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KumariShreya16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumariShreya16/DSA/tree/master/0136-single-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/KumariShreya16/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumariShreya16/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KumariShreya16/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/KumariShreya16/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/KumariShreya16/DSA/tree/master/0260-single-number-iii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
