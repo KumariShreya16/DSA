@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/KumariShreya16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/KumariShreya16/DSA/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/KumariShreya16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/KumariShreya16/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KumariShreya16/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KumariShreya16/DSA/tree/master/0137-single-number-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/KumariShreya16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/KumariShreya16/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumariShreya16/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KumariShreya16/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
