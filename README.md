@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KumariShreya16/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/KumariShreya16/DSA/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/KumariShreya16/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/KumariShreya16/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/KumariShreya16/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KumariShreya16/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/KumariShreya16/DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KumariShreya16/DSA/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/KumariShreya16/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumariShreya16/DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/KumariShreya16/DSA/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
