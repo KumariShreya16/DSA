@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumariShreya16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/KumariShreya16/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/KumariShreya16/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/KumariShreya16/DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/KumariShreya16/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumariShreya16/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KumariShreya16/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/KumariShreya16/DSA/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/KumariShreya16/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KumariShreya16/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/KumariShreya16/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KumariShreya16/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KumariShreya16/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
