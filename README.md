@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/KumariShreya16/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KumariShreya16/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/KumariShreya16/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KumariShreya16/DSA/tree/master/0605-can-place-flowers) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KumariShreya16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KumariShreya16/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KumariShreya16/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KumariShreya16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/KumariShreya16/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KumariShreya16/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KumariShreya16/DSA/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KumariShreya16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumariShreya16/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/KumariShreya16/DSA/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/KumariShreya16/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KumariShreya16/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KumariShreya16/DSA/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KumariShreya16/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
